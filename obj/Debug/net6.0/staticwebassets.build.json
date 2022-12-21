@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QvPW3t7MNqRUjehO1J4uPjozUg+BgzFpRSIlfbGOJ6A=",
+  "Hash": "d9tNLZ/Drl20vBR2yJmeSTtm8oGQP1PCnK+PKSEJQo0=",
   "Source": "firstSelenium",
   "BasePath": "_content/firstSelenium",
   "Mode": "Default",
@@ -68,6 +68,23 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+      "Identity": "C:\\emerg\\CSharp\\firstSelenium\\wwwroot\\easyButton.png",
+      "SourceId": "firstSelenium",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\emerg\\CSharp\\firstSelenium\\wwwroot\\",
+      "BasePath": "_content/firstSelenium",
+      "RelativePath": "easyButton.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\easyButton.png"
+    },
+    {
       "Identity": "C:\\emerg\\CSharp\\firstSelenium\\wwwroot\\favicon.ico",
       "SourceId": "firstSelenium",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\emerg\\CSharp\\firstSelenium\\wwwroot\\getAJob.mp3",
+      "SourceId": "firstSelenium",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\emerg\\CSharp\\firstSelenium\\wwwroot\\",
+      "BasePath": "_content/firstSelenium",
+      "RelativePath": "getAJob.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\getAJob.mp3"
     },
     {
       "Identity": "C:\\emerg\\CSharp\\firstSelenium\\wwwroot\\js\\site.js",

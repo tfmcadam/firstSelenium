@@ -2,6 +2,7 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand {
+  color: white;
   white-space: normal;
   text-align: center;
   word-break: break-all;
@@ -23,12 +24,12 @@ a {
   border-color: #1861ac;
 }
 
-.border-top {
+/* .border-top {
   border-top: 1px solid #e5e5e5;
 }
 .border-bottom {
   border-bottom: 1px solid #e5e5e5;
-}
+} */
 
 .box-shadow {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
@@ -45,4 +46,23 @@ button.accept-policy {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+.layout{
+  text-decoration-color: #e5e5e5;
+  color: white;
+  background-color: #151C41;
+}
+
+.nav-height{
+  height: 100px;
+}
+
+.weight{
+  font-size: 28px;
+
+}
+
+*{
+  font-family: 'Cabin', sans-serif;
 }

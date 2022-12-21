@@ -2,6 +2,7 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand[b-9h2ch6oip1] {
+  color: white;
   white-space: normal;
   text-align: center;
   word-break: break-all;
@@ -23,12 +24,12 @@ a[b-9h2ch6oip1] {
   border-color: #1861ac;
 }
 
-.border-top[b-9h2ch6oip1] {
+/* .border-top {
   border-top: 1px solid #e5e5e5;
 }
-.border-bottom[b-9h2ch6oip1] {
+.border-bottom {
   border-bottom: 1px solid #e5e5e5;
-}
+} */
 
 .box-shadow[b-9h2ch6oip1] {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
@@ -45,4 +46,23 @@ button.accept-policy[b-9h2ch6oip1] {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+.layout[b-9h2ch6oip1]{
+  text-decoration-color: #e5e5e5;
+  color: white;
+  background-color: #151C41;
+}
+
+.nav-height[b-9h2ch6oip1]{
+  height: 100px;
+}
+
+.weight[b-9h2ch6oip1]{
+  font-size: 28px;
+
+}
+
+*[b-9h2ch6oip1]{
+  font-family: 'Cabin', sans-serif;
 }

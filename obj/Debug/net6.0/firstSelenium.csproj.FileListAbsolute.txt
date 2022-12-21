@@ -38,3 +38,5 @@ C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\refint\firstSelenium.dll
 C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.pdb
 C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\firstSelenium.genruntimeconfig.cache
 C:\emerg\CSharp\firstSelenium\obj\Debug\net6.0\ref\firstSelenium.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\WebDriver.Support.dll
+C:\emerg\CSharp\firstSelenium\bin\Debug\net6.0\Utils.dll

@@ -17,21 +17,6 @@ public class HomeController : Controller
         _logger = logger;
     }
 
-    // public class AutomatedUITests : IDisposable
-    // {
-    //     private readonly IWebDriver _driver;
-    //     public AutomatedUITests() => _driver = new ChromeDriver();
-    //     public void Dispose()
-    //     {
-    //         ChromeDriver driver = new ChromeDriver("C:/Program Files/Google/Chrome/Application/chrome.exe");
-    //         driver.Navigate().GoToUrl("https://www.Linkedin.com/login");
-    //         driver.FindElement(By.Name("session_key.SendKeys"));
-    //         Thread.Sleep(20000);
-    //         driver.Quit();
-    //         _driver.Quit();
-    //         _driver.Dispose();
-    //     }
-    // }
 
     public IActionResult Index()
     {
